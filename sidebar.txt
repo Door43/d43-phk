@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[phk:home|Door43 (phk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-phk|d43-phk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-phk/archive/master.zip|d43-phk.zip]]
+
+**Recent Changes**
+{{changes>ns = phk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/phk|Ethnologue data]]
+
